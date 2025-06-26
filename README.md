@@ -46,7 +46,7 @@ The below graph shows how well the model predicted house prices:
 > The closer the points to the red line, the better the model is performing!
 
 ## 🧾 Sample Output (from Terminal)
-![sample ouput](assets/pic2.pg)
+![sample ouput](assets/pic2.png)
 
 ## 📌 Conclusion
 - The model explains **~65% of the price variation** in the data.
